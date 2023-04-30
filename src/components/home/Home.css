@@ -1,0 +1,31 @@
+.container{
+    display: flex;
+    flex: 20% 80%;
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    border: 5px solid rgba(54, 162, 235, 1);
+    overflow-y: scroll;
+    overflow-x: hidden;
+    z-index: 100;
+    background: rgb(211, 211, 211);
+}
+
+.LeftContainer{
+    width: 20%;
+    position: sticky;
+    height: 98%;
+    top:0px;
+    border: 5px solid black;
+    background: white;
+}
+
+.RightContainer{
+    width: 80%;
+    position: absolute;
+}
+button{
+    cursor: pointer;
+}

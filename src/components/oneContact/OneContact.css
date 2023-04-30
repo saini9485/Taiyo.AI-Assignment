@@ -1,0 +1,11 @@
+
+.Wrapper > div{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 10px;
+    padding: 10px 10px;
+    background: white;
+    width: 30%;
+    cursor: pointer;
+    margin: auto;
+    margin-top: 50px;
+}
