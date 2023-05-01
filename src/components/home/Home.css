@@ -17,7 +17,7 @@
     width: 20%;
     position: sticky;
     height: 98%;
-    top:0px;
+    /* top:0px; */
     border: 5px solid black;
     background: white;
 }
